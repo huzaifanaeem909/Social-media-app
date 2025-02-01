@@ -7,6 +7,7 @@ export const API_ROUTES = {
   LOGIN: `${AUTH_BASE_URL}/login/`,
   LOGOUT: `${AUTH_BASE_URL}/logout/`,
   REGISTER: `${AUTH_BASE_URL}/register/`,
+  PROFILE: `${AUTH_BASE_URL}/profile/`,
 
   // Post routes
   CREATE_POST: `${POST_BASE_URL}/create/`,
